@@ -10,14 +10,14 @@
 	<string>CS63AFlickrCoreData</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3123FDD46FE67FDF0B2DB3DF50DDE9F4EED12A36</key>
+		<key>375B26372AB91DD0FCE7EA27A9E68E5518DE3A55</key>
 		<string>https://github.com/linovate/FlickrCoreDataWithMap.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CS63AFlickrCoreData.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3123FDD46FE67FDF0B2DB3DF50DDE9F4EED12A36</key>
+		<key>375B26372AB91DD0FCE7EA27A9E68E5518DE3A55</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3123FDD46FE67FDF0B2DB3DF50DDE9F4EED12A36</string>
+	<string>375B26372AB91DD0FCE7EA27A9E68E5518DE3A55</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3123FDD46FE67FDF0B2DB3DF50DDE9F4EED12A36</string>
+			<string>375B26372AB91DD0FCE7EA27A9E68E5518DE3A55</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CS63AFlickrCoreDataWithMap</string>
 		</dict>

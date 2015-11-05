@@ -2,8 +2,8 @@
 //  PhotoDatabaseAvailability.h
 //  TopRegions
 //
-//  Created by Viet Trinh on 1/20/15.
-//  Copyright (c) 2015 Viet Trinh. All rights reserved.
+//  Created by lordofming on 1/20/15.
+//  Copyright (c) 2015 lordofming. All rights reserved.
 //
 
 #ifndef TopRegions_PhotoDatabaseAvailability_h
